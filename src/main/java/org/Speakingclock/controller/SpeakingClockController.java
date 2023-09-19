@@ -1,9 +1,9 @@
-package org.jsp.merchent.controller;
+package org.Speakingclock.controller;
 
 import java.util.Scanner;
 
-import org.jsp.merchent.dto.SpeakingClock;
-import org.jsp.merchent.exception.CustomExceptionHandler;
+import org.Speakingclock.dto.SpeakingClock;
+import org.Speakingclock.exception.CustomExceptionHandler;
 
 public class SpeakingClockController {
     public static void main(String[] args) {

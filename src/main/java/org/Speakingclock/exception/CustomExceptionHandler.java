@@ -1,4 +1,4 @@
-package org.jsp.merchent.exception;
+package org.Speakingclock.exception;
 
 public class CustomExceptionHandler {
 

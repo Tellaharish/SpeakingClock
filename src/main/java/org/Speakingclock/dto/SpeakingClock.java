@@ -1,4 +1,4 @@
-package org.jsp.merchent.dto;
+package org.Speakingclock.dto;
 
 import java.util.Scanner;
 

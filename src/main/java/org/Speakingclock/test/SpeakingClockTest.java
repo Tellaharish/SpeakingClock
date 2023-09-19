@@ -1,8 +1,8 @@
-package org.jsp.merchent.test;
+package org.Speakingclock.test;
 import static org.junit.jupiter.api.Assertions.*;
 
-import org.jsp.merchent.dto.SpeakingClock;
-import org.jsp.merchent.exception.CustomExceptionHandler;
+import org.Speakingclock.dto.SpeakingClock;
+import org.Speakingclock.exception.CustomExceptionHandler;
 import org.junit.jupiter.api.Test;
 
 public class SpeakingClockTest {
